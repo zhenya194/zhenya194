@@ -1,5 +1,7 @@
 ## Hi, I am Zhenya 👋
 
+Backend developer
+
 ### 🚀 Stack
 
 * <img src="https://cdn.simpleicons.org/html5/E34F26" width="15"> HTML
