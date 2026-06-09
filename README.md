@@ -21,4 +21,4 @@ Backend developer
   * <img src="https://cdn.simpleicons.org/github/2c2a2a" width="15"> Github
 
 ### ✨ Projects(open-source)
-* 📚 Learni - web-platform in order to learn something
+* 📚 **Learni** - web-platform in order to learn something
