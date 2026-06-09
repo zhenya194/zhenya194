@@ -5,7 +5,7 @@ Backend developer
 ### 🚀 Stack
 
 * <img src="https://cdn.simpleicons.org/html5/E34F26" width="15"> HTML
-* <img src="https://cdn.simpleicons.org/css/663399" width="15"> CSS, <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="15"> Bootstrap, <img src="https://cdn.simpleicons.org/fontawesome/538DD7" width="15"> Font Awesome
+* <img src="https://cdn.simpleicons.org/css/663399" width="15"> CSS, <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="15"> Bootstrap
 * <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="15"> JavaScript
 * <img src="https://cdn.simpleicons.org/jinja/7E0C1B" width="15"> Jinja
 
